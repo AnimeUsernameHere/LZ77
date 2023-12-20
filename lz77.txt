@@ -3,7 +3,7 @@ using System.Data.SqlTypes;
 using System.Linq;
 using System.Runtime.InteropServices;
 
-class LZ77
+class lz77
 {
     public class shif
     {
